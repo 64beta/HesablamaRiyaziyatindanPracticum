@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="2">
+  <diagram name="Page-1" id="f-1p8PWjOPUTuqA6Hc5-">
+    <mxGraphModel dx="1036" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xeQ2HWB6W7-8EVr-I2a5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeQ2HWB6W7-8EVr-I2a5-2" target="xeQ2HWB6W7-8EVr-I2a5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeQ2HWB6W7-8EVr-I2a5-2" value="$$Başlanğıc$$" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xeQ2HWB6W7-8EVr-I2a5-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeQ2HWB6W7-8EVr-I2a5-3" target="xeQ2HWB6W7-8EVr-I2a5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeQ2HWB6W7-8EVr-I2a5-3" value="$$S$$" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xeQ2HWB6W7-8EVr-I2a5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeQ2HWB6W7-8EVr-I2a5-4" target="xeQ2HWB6W7-8EVr-I2a5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeQ2HWB6W7-8EVr-I2a5-4" value="$$a,b,c$$" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="110" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xeQ2HWB6W7-8EVr-I2a5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeQ2HWB6W7-8EVr-I2a5-5" target="xeQ2HWB6W7-8EVr-I2a5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeQ2HWB6W7-8EVr-I2a5-5" value="p = (a+b+c)/2&lt;br&gt;$$S =\sqrt{p(p-a)(p-b)(p-c)}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="220" width="215" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xeQ2HWB6W7-8EVr-I2a5-6" value="$$Son$$" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wKEj7adlJ5eF73acT9g5" name="Page-2">
+    <mxGraphModel dx="1036" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

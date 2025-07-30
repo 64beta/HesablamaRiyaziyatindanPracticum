@@ -1,10 +1,10 @@
 import math
 
 def f(x):
-    return x**3 - x - 2  # Burada istənilən funksiya yazıla bilər
+    return 2 * math.exp(x) - 2 * x - 3  # Burada istənilən funksiya yazıla bilər
 
 def f1(x):
-    return 3*x**2 - 1    # Burada funksiyanın törəməsini daxil et
+    return 2 * math.exp(x) - 2    # Burada funksiyanın törəməsini daxil et
 
 eps = 1e-10
 

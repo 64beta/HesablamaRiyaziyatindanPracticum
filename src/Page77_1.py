@@ -1,5 +1,6 @@
+import math
 def f(x):
-    return x**2  # Burada istənilən funksiya yazıla bilər
+    return math.sin(2 * x + 0.5) / (2 + math.cos(x**2 + 1))  # Burada istənilən funksiya yazıla bilər
 
 n = 100
 a = float(input())

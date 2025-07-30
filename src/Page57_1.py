@@ -1,7 +1,8 @@
+import math
 def f(x):
-    return (x**2 + 2) / 3  # Burada istənilən funksiya yazıla bilər
+     return math.exp(-0.1*x)   # Burada istənilən funksiya yazıla bilər
 
-eps = 1e-10
+eps = 10e-11
 
 x0 = float(input())
 q = float(input())

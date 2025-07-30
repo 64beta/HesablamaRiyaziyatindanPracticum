@@ -1,6 +1,6 @@
-n = 5
 y = []
 
+n = int(input())
 x = float(input())
 x0 = float(input())
 h = float(input())

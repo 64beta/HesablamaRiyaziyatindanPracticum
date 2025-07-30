@@ -1,5 +1,7 @@
+import math
+
 def f(x):
-    return x**3 - x - 2  # Burada istənilən funksiya yazıla bilər
+    return 2 * math.exp(x) - 2 * x - 3  # Burada istənilən funksiya yazıla bilər
 
 eps = 1e-10
 
@@ -16,4 +18,4 @@ while True:
         break
     x1 = x
 
-print(f"Tənliyin kökü x = {x1:20.15f}")
+print(f"{x1:20.15f}")

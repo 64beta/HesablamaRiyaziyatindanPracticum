@@ -1,9 +1,7 @@
-#kitabda kod ve sekil uyusmur
-
 def f(x):
-    return x**3 - x - 2  # Burada istənilən funksiya yazıla bilər
+    return x**3 + x - 1  # Burada istənilən funksiya yazıla bilər
 
-eps = 1e-10
+eps = 10e-11
 
 a = float(input())
 b = float(input())

@@ -1,2 +1,2 @@
 69 80 ci sekiller deyisdirildi
-45 55 82 98 sual altindadir
+82 98 sual altindadir
